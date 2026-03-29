@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Olivas OS APT Repository</title>
+<style>
+  body { background: #0f0f0f; color: #e0e0e0; font-family: monospace; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+  .box { text-align: center; border: 1px solid #2a2a2a; padding: 40px; border-radius: 12px; }
+  h1 { color: #4ade80; font-size: 28px; }
+  code { background: #1a1a1a; padding: 8px 16px; border-radius: 6px; display: block; margin: 10px 0; color: #60a5fa; }
+  p { color: #666; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>🫒 Olivas OS APT Repository</h1>
+  <p>Resmi Olivas OS paket deposu</p>
+  <br>
+  <p>Sisteminize eklemek için:</p>
+  <code>curl -fsSL https://Olivas-OS.github.io/olivas-repo/olivas.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/olivas.gpg</code>
+  <code>echo "deb https://Olivas-OS.github.io/olivas-repo stable main" | sudo tee /etc/apt/sources.list.d/olivas.list</code>
+  <code>sudo apt update && sudo apt install olivas-store</code>
+  <br>
+  <p style="color:#444">Olivas OS v1.0 — Burak tarafından geliştirilmektedir</p>
+</div>
+</body>
+</html>
