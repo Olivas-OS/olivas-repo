@@ -1,0 +1,17 @@
+Package: olivas-store
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: admin
+Maintainer: Olivas OS <burak@olivasos.com>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Filename: pool/main/olivas-store_1.0_all.deb
+Size: 868
+MD5sum: 510d5accddc55c8ff8f30a8189fbed3d
+SHA1: f4be3ef10d40385cedaa10219c768ef1afb8bf26
+SHA256: bd82949102fd8f57b54f32affa3616138d26e648368877133c3c1718d0ef663a
+SHA512: f67888952903a8e898feb89c4517cebafb1b21c32416d27e58395ede05e8e2c0104026854fea214da99245f462ca1315e81251593acdf3e2134522e738a7923d
+Description: Olivas OS Uygulama Magazasi
+ Olivas OS icin ozel gelistirilmis uygulama yukleyici.
+ Kategoriler, arama ve otomatik kurulum destekler.
+
