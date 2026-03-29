@@ -1,17 +1,7 @@
-Date: Sun, 29 Mar 2026 17:55:18 +0000
-MD5Sum:
- 100ceba5eab2e8f8244c507e97af41f9               38 Release
- f5f3160e14467312ce6f6df89ef73adf              676 main/binary-amd64/Packages
- c5403b7b08c765175c5da823cb6b63bf              492 main/binary-amd64/Packages.gz
-SHA1:
- 79c28e38a63ce12427ca5cee270178af7204a8cb               38 Release
- 1183e18370af9ef1e95d020582f6d3db8e122196              676 main/binary-amd64/Packages
- ec0bf44eed30b580ef2e6294bacd5cb6ed080667              492 main/binary-amd64/Packages.gz
-SHA256:
- 4472c48748a72de4691884130e26eaeca653ebaecf003b9595b00eaa1549246e               38 Release
- 5438b3f828df1be128ec28f8031b24e41c88b7b412dafae97e6c860819ca95d5              676 main/binary-amd64/Packages
- dd8749b3af4086339f67c3c3da0cce004e9ef60b91567ae81c7dbb38ed1a9f39              492 main/binary-amd64/Packages.gz
-SHA512:
- 8f1f51753f24b27a503cb31776d71b816429dff506b5c1054aa5df4d7d1e294c82f88c51ac7bf74b35f89e489aa8da06ee68a27a75d516443cecc169c96553cc               38 Release
- a4c62ac4941d15cbc082564e59ae84eabfb5600865cc4a0b089fff9da64808954c1b0f91562d2890e763367837dad824434fb313f7986151cd03dd168a84fde9              676 main/binary-amd64/Packages
- 172a1931ba053eed6dbefb43030776f6e3c3d197b56f460541bd1341e7fab509ba46653c3473b624a646b9fcd765f969d42518d96d8e4508dcc964a47a90de6f              492 main/binary-amd64/Packages.gz
+Origin: Olivas OS
+Label: Olivas OS
+Suite: stable
+Codename: stable
+Architectures: amd64 all
+Components: main
+Description: Olivas OS Official APT Repository
